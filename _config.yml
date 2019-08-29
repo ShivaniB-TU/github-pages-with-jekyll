@@ -1,4 +1,5 @@
 title: My page!
+theme: minima
 author: Shivani
 email: shb381@utulsa.edu
 description: > # this means to ignore newlines until "baseurl:"
